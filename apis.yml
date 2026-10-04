@@ -52,7 +52,7 @@ tags:
 - Credit Card Processing
 - Payment Gateway
 - Chargebacks
-- Financial-Services
+- Financial Services
 tags_raw:
 - Company
 - Payments
@@ -62,6 +62,7 @@ tags_raw:
 - Payment Gateway
 - Chargebacks
 - Financial Services
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
